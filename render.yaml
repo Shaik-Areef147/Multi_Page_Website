@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: multi-page-website
+    env: static
+    staticPublishPath: .
